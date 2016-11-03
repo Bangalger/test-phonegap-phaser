@@ -1,0 +1,141 @@
+html, body {
+	font-family: 'Roboto', sans-serif !important;
+}
+
+h4{
+	text-transform: uppercase;
+	font-weight: 500 !important;
+	text-align: center;
+	margin: 10px !important;
+}
+
+h3{
+	margin: 10px !important;
+}
+
+.boton-home{
+	display: block !important;
+	width: 20% !important;
+}
+
+.navbar-casero{
+	background-color: transparent !important;
+	color: #000000 !important;
+}
+
+.icono-navbar{
+	width: 30px !important;
+}
+
+a:hover {
+	background-color: transparent !important; 
+}
+
+#login{
+	width: 100%;
+	margin: 150px auto !important;
+	padding: auto !important;
+	text-align: center !important;
+}
+
+.logo-museo{
+	margin-top: 50px;
+	width: 50% !important;
+}
+
+.btn-hpm-f{
+	border: 2px solid #3B5898 !important;
+	text-transform: uppercase;
+	font-weight: 100 !important;
+	color: #3B5898 !important;
+}
+
+.btn-hpm-g{
+	border: 2px solid #DD4A3A !important;
+	text-transform: uppercase;
+	font-weight: 100 !important;
+	color: #DD4A3A !important;
+}
+
+.calvo{
+	border: none !important;
+	box-shadow: none !important;
+	background-color: transparent !important;
+	font-weight: 200 !important;
+	font-size: 15px !important;
+}
+
+#inicio .test{
+	width: 100%;
+	padding: 300px 0px 300px 0px !important;
+}
+
+#map {
+	margin-top: 80px;
+	margin-bottom: 55px;
+	padding-top: 150px; 
+	height: 450px;
+}
+
+.dale{
+	width: 100%;
+	position:absolute !important;
+	bottom:0 !important;
+}
+
+a, li .lista-perfil{
+	text-decoration: none !important;
+}
+
+ul .lista-perfil{
+	list-style-type: none !important;
+	font-weight: 100 !important;
+	line-height: 35px !important;
+	color: #000000 !important;
+}
+
+.foto{
+	width: 60% !important;
+	display: block !important;
+    margin: 0 auto !important;
+}
+
+.icono-perfil{
+	width: 5% !important;
+	margin-right: 10px !important;
+}
+
+.tab-estado{
+	background-color: transparent !important;
+	border: 0px !important;
+	text-transform: uppercase;
+	font-weight: 300 !important;
+}
+
+.barra{
+	background-color: transparent !important;
+	border-width: 0px 0px 0px 1px !important;
+	border-color: #000000 !important;
+	text-transform: uppercase;
+	font-weight: 300 !important;
+}
+
+.lista-edificios{
+	width: 100%;
+	font-weight: 100 !important;
+	line-height: 50px !important;
+}
+.edificio{
+	padding: 80px 0px 0px 0px !important;
+}
+
+.popper{
+	text-align: center !important;
+	padding:2px 20px !important;
+}
+
+table.center {
+	text-align: center;
+    margin-left:auto !important; 
+    margin-right:auto !important;
+  }
