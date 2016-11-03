@@ -25,9 +25,6 @@
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
     
-    <!--plugin name="cordova-plugin-geolocation" spec="1.0.1" source="pgb" /-->
-    <!-- este de abajo es el que recien agregue-->
-    <gap:plugin name="org.apache.cordova.geolocation" />
 
     <icon src="images/icon.png" />
     <icon gap:platform="android" gap:qualifier="ldpi" src="images/res/icon/android/icon-36-ldpi.png" />
